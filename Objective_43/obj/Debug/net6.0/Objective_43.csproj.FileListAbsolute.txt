@@ -1,0 +1,15 @@
+D:\heap_edu\C_sem_6_hw\Objective_43\obj\Debug\net6.0\Objective_43.csproj.AssemblyReference.cache
+D:\heap_edu\C_sem_6_hw\Objective_43\obj\Debug\net6.0\Objective_43.GeneratedMSBuildEditorConfig.editorconfig
+D:\heap_edu\C_sem_6_hw\Objective_43\obj\Debug\net6.0\Objective_43.AssemblyInfoInputs.cache
+D:\heap_edu\C_sem_6_hw\Objective_43\obj\Debug\net6.0\Objective_43.AssemblyInfo.cs
+D:\heap_edu\C_sem_6_hw\Objective_43\obj\Debug\net6.0\Objective_43.csproj.CoreCompileInputs.cache
+D:\heap_edu\C_sem_6_hw\Objective_43\bin\Debug\net6.0\Objective_43.exe
+D:\heap_edu\C_sem_6_hw\Objective_43\bin\Debug\net6.0\Objective_43.deps.json
+D:\heap_edu\C_sem_6_hw\Objective_43\bin\Debug\net6.0\Objective_43.runtimeconfig.json
+D:\heap_edu\C_sem_6_hw\Objective_43\bin\Debug\net6.0\Objective_43.dll
+D:\heap_edu\C_sem_6_hw\Objective_43\bin\Debug\net6.0\Objective_43.pdb
+D:\heap_edu\C_sem_6_hw\Objective_43\obj\Debug\net6.0\Objective_43.dll
+D:\heap_edu\C_sem_6_hw\Objective_43\obj\Debug\net6.0\refint\Objective_43.dll
+D:\heap_edu\C_sem_6_hw\Objective_43\obj\Debug\net6.0\Objective_43.pdb
+D:\heap_edu\C_sem_6_hw\Objective_43\obj\Debug\net6.0\Objective_43.genruntimeconfig.cache
+D:\heap_edu\C_sem_6_hw\Objective_43\obj\Debug\net6.0\ref\Objective_43.dll
